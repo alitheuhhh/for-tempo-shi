@@ -1,8 +1,8 @@
 {
   "port":80,
-  "godword":"",
-  "altlimit": 4,
-  "slowmode": 1000,
-  "namelimit": 25,
-  "charlimit": 2500
+  "godword":"dingus",
+  "altlimit": 1,
+  "slowmode": 5000,
+  "namelimit": 9999999,
+  "charlimit": 1000
 }
